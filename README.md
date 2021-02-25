@@ -1,2 +1,3 @@
 # docker-compose-examples
-docker-compose examples
+
+> https://github.com/docker/awesome-compose
